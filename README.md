@@ -1,6 +1,6 @@
 # Introducción a la Programación
 
-Introducción a la programación con PSeInt y Arduino
+Introducción a la programación con PSeInt y Arduino.
 
 ## ¿Qué es PSeInt?
 
@@ -12,13 +12,12 @@ Arduino es una compañía de desarrollo de software y hardware libres, así como
 
 ## Contenidos
 
-El repositorio contiene Archivos PSC INO y diagramas de flujo
-incluye la transcripción a codigo Arduino
+El repositorio contiene archivos PSC (pseudolenguaje de PSeInt), imágenes PNG de diagramas de flujo generados con PSeInt, y archivos INO (código fuente de Arduino).
 
 - `mas-ejemplos` Colección de ejemplos oficiales de PSeInt
 - `introduccion` Aprendiendo a escribir pseudolenguaje
 
-El código escrito para Arduino se puede simular en Wokwi en el siguiente [proyecto publico](https://wokwi.com/projects/392336206061582337).
+El código fuente de Arduino se puede simular en **Wokwi** en el siguiente [proyecto publico](https://wokwi.com/projects/392336206061582337).
 
 ## Recursos
 
