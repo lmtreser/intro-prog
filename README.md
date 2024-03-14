@@ -16,6 +16,9 @@ El repositorio contiene archivos PSC (pseudolenguaje de PSeInt), imágenes PNG d
 
 - `mas-ejemplos` Colección de ejemplos oficiales de PSeInt
 - `introduccion` Aprendiendo a escribir pseudolenguaje
+- `estructuras_de_control` Estructuras de control en pseudolenguaje
+- `bucles` Bucles (lazos) en pseudolenguaje
+- `funciones` Funciones en pseudolenguaje
 
 El código fuente de Arduino se puede simular en **Wokwi** en el siguiente [proyecto publico](https://wokwi.com/projects/392336206061582337).
 
