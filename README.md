@@ -23,10 +23,11 @@ El código fuente de Arduino se puede simular en **Wokwi** en el siguiente [proy
 
 - [Arduino](https://www.arduino.cc/)
 - [PSeInt](https://pseint.sourceforge.net/)
-- [Diagrama de Flujo](https://es.wikipedia.org/wiki/Diagrama_de_flujo)
 - [Dia Diagram Editor](http://dia-installer.de/)
 - [Pencil Project](https://pencil.evolus.vn/)
 - [ZinjaI](https://zinjai.sourceforge.net/)
+- [Arduino Language Reference](https://www.arduino.cc/reference/en/)
+- [Diagrama de Flujo](https://es.wikipedia.org/wiki/Diagrama_de_flujo)
 
 ## Licencia
 
